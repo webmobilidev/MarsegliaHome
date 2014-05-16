@@ -11,7 +11,7 @@ Con la gallery guarda il prodotto d'arredo da te selezionato nei minimi dettagli
     <author email="info@marsegliahome.it" href="http://www.marsegliahome.it">
         Marseglia Home
     </author>
-    <feature name="http://api.phonegap.com/1.0/device" />
+    
 	<gap:plugin name="org.apache.cordova.device" />
 	<preference name="phonegap-version" value="3.3.0" />
     <preference name="permissions" value="none" />
@@ -21,7 +21,6 @@ Con la gallery guarda il prodotto d'arredo da te selezionato nei minimi dettagli
     <preference name="webviewbounce" value="true" />
     <preference name="prerendered-icon" value="true" />
     <preference name="stay-in-webview" value="false" />
-	<preference name="ios-statusbarstyle" value="black-opaque" />
     <preference name="detect-data-types" value="true" />
     <preference name="exit-on-suspend" value="false" />
     <preference name="show-splash-screen-spinner" value="true" />
