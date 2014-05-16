@@ -21,6 +21,7 @@ Con la gallery guarda il prodotto d'arredo da te selezionato nei minimi dettagli
     <preference name="prerendered-icon" value="true" />
     <preference name="stay-in-webview" value="false" />
     <preference name="StatusBarOverlaysWebView" value="false" />
+	<preference name="ios-statusbarstyle" value="black-opaque" />
     <preference name="detect-data-types" value="true" />
     <preference name="exit-on-suspend" value="false" />
     <preference name="show-splash-screen-spinner" value="true" />
